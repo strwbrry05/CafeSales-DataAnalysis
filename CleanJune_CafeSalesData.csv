@@ -1,0 +1,818 @@
+Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date,Month,Day,Year,Weekday
+Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Sandwich,5.0,4.0,20.0,Cash,In-store,2023-06-03,6,3,2023,Saturday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Juice,5.0,3.0,15.0,Cash,Takeaway,2023-06-26,6,26,2023,Monday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-19,6,19,2023,Monday
+Tea,5.0,1.5,7.5,Cash,Takeaway,2023-06-02,6,2,2023,Friday
+Juice,4.0,3.0,12.0,Cash,In-store,2023-06-15,6,15,2023,Thursday
+Salad,5.0,5.0,25.0,Cash,In-store,2023-06-10,6,10,2023,Saturday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Salad,3.0,5.0,15.0,Credit Card,In-store,2023-06-10,6,10,2023,Saturday
+Salad,4.0,5.0,20.0,Cash,In-store,2023-06-06,6,6,2023,Tuesday
+Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,4.0,1.0,4.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-06-15,6,15,2023,Thursday
+Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Juice,2.0,3.0,6.0,Cash,Takeaway,2023-06-07,6,7,2023,Wednesday
+Smoothie,2.0,4.0,8.0,Cash,Takeaway,2023-06-20,6,20,2023,Tuesday
+Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-10,6,10,2023,Saturday
+Cookie,1.0,1.0,1.0,Cash,In-store,2023-06-07,6,7,2023,Wednesday
+Tea,4.0,1.5,6.0,Cash,Takeaway,2023-06-19,6,19,2023,Monday
+Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-06,6,6,2023,Tuesday
+Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-13,6,13,2023,Tuesday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-05,6,5,2023,Monday
+Smoothie,2.0,4.0,8.0,Cash,In-store,2023-06-21,6,21,2023,Wednesday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Smoothie,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Smoothie,1.0,4.0,4.0,Credit Card,In-store,2023-06-06,6,6,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-06-06,6,6,2023,Tuesday
+Tea,1.0,1.5,1.5,Cash,Takeaway,2023-06-14,6,14,2023,Wednesday
+Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-06-29,6,29,2023,Thursday
+Salad,3.0,5.0,15.0,Credit Card,In-store,2023-06-18,6,18,2023,Sunday
+Cake,4.0,3.0,12.0,Cash,In-store,2023-06-23,6,23,2023,Friday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-10,6,10,2023,Saturday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-06-11,6,11,2023,Sunday
+Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-06-16,6,16,2023,Friday
+Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-11,6,11,2023,Sunday
+Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-06-24,6,24,2023,Saturday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-15,6,15,2023,Thursday
+Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-06-28,6,28,2023,Wednesday
+Tea,4.0,1.5,6.0,Credit Card,In-store,2023-06-10,6,10,2023,Saturday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Tea,1.0,1.5,1.5,Cash,Takeaway,2023-06-15,6,15,2023,Thursday
+Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-06-13,6,13,2023,Tuesday
+Tea,4.0,1.5,6.0,Credit Card,In-store,2023-06-07,6,7,2023,Wednesday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-06-19,6,19,2023,Monday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Sandwich,4.0,4.0,16.0,Cash,Takeaway,2023-06-19,6,19,2023,Monday
+Cookie,2.0,1.0,2.0,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-06-12,6,12,2023,Monday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Smoothie,1.0,4.0,4.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Smoothie,4.0,4.0,16.0,Credit Card,In-store,2023-06-08,6,8,2023,Thursday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Juice,2.0,3.0,6.0,Cash,In-store,2023-06-16,6,16,2023,Friday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Tea,3.0,1.5,4.5,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Salad,4.0,5.0,20.0,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Sandwich,5.0,4.0,20.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Sandwich,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-24,6,24,2023,Saturday
+Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-12,6,12,2023,Monday
+Cookie,5.0,1.0,5.0,Credit Card,In-store,2023-06-05,6,5,2023,Monday
+Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-06-14,6,14,2023,Wednesday
+Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-06-06,6,6,2023,Tuesday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-20,6,20,2023,Tuesday
+Cake,2.0,3.0,6.0,Cash,Takeaway,2023-06-23,6,23,2023,Friday
+Cake,2.0,3.0,6.0,Cash,In-store,2023-06-18,6,18,2023,Sunday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Tea,4.0,1.5,6.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-21,6,21,2023,Wednesday
+Salad,5.0,5.0,25.0,Credit Card,In-store,2023-06-16,6,16,2023,Friday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Salad,3.0,5.0,15.0,Credit Card,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cookie,3.0,1.0,3.0,Cash,Takeaway,2023-06-05,6,5,2023,Monday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Cake,4.0,3.0,12.0,Cash,In-store,2023-06-09,6,9,2023,Friday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-25,6,25,2023,Sunday
+Tea,5.0,1.5,7.5,Cash,In-store,2023-06-12,6,12,2023,Monday
+Tea,2.0,1.5,3.0,Cash,Takeaway,2023-06-17,6,17,2023,Saturday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,2.0,1.5,3.0,Cash,In-store,2023-06-19,6,19,2023,Monday
+Cake,5.0,3.0,15.0,Cash,In-store,2023-06-10,6,10,2023,Saturday
+Salad,3.0,5.0,15.0,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Cookie,2.0,1.0,2.0,Cash,In-store,2023-06-05,6,5,2023,Monday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-06-08,6,8,2023,Thursday
+Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-06-19,6,19,2023,Monday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,5.0,3.0,15.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-06-05,6,5,2023,Monday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Tea,4.0,1.5,6.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Juice,5.0,3.0,15.0,Cash,In-store,2023-06-29,6,29,2023,Thursday
+Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Cake,5.0,3.0,15.0,Credit Card,In-store,2023-06-15,6,15,2023,Thursday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-14,6,14,2023,Wednesday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-06-27,6,27,2023,Tuesday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-06-23,6,23,2023,Friday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-19,6,19,2023,Monday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Juice,2.0,3.0,6.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Cookie,3.0,1.0,3.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Salad,4.0,5.0,20.0,Cash,Takeaway,2023-06-20,6,20,2023,Tuesday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Smoothie,5.0,4.0,20.0,Credit Card,Takeaway,2023-06-17,6,17,2023,Saturday
+Cake,4.0,3.0,12.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-06-16,6,16,2023,Friday
+Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cake,1.0,3.0,3.0,Cash,Takeaway,2023-06-04,6,4,2023,Sunday
+Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-06-21,6,21,2023,Wednesday
+Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-26,6,26,2023,Monday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Juice,2.0,3.0,6.0,Credit Card,In-store,2023-06-24,6,24,2023,Saturday
+Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-06-25,6,25,2023,Sunday
+Cake,1.0,3.0,3.0,Credit Card,In-store,2023-06-14,6,14,2023,Wednesday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Smoothie,5.0,4.0,20.0,Cash,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Salad,4.0,5.0,20.0,Credit Card,In-store,2023-06-18,6,18,2023,Sunday
+Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-27,6,27,2023,Tuesday
+Coffee,1.0,2.0,2.0,Cash,In-store,2023-06-17,6,17,2023,Saturday
+Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-06-27,6,27,2023,Tuesday
+Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-06,6,6,2023,Tuesday
+Smoothie,5.0,4.0,20.0,Credit Card,In-store,2023-06-10,6,10,2023,Saturday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-07,6,7,2023,Wednesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Cookie,4.0,1.0,4.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Salad,4.0,5.0,20.0,Cash,In-store,2023-06-12,6,12,2023,Monday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Cake,2.0,3.0,6.0,Credit Card,In-store,2023-06-13,6,13,2023,Tuesday
+Salad,5.0,5.0,25.0,Credit Card,In-store,2023-06-17,6,17,2023,Saturday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-09,6,9,2023,Friday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Sandwich,1.0,4.0,4.0,Credit Card,In-store,2023-06-17,6,17,2023,Saturday
+Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-14,6,14,2023,Wednesday
+Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-06-02,6,2,2023,Friday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Sandwich,4.0,4.0,16.0,Cash,In-store,2023-06-03,6,3,2023,Saturday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Smoothie,3.0,4.0,12.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Coffee,3.0,2.0,6.0,Credit Card,Takeaway,2023-06-21,6,21,2023,Wednesday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Sandwich,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-16,6,16,2023,Friday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Salad,1.0,5.0,5.0,Cash,Takeaway,2023-06-23,6,23,2023,Friday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-08,6,8,2023,Thursday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Juice,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-22,6,22,2023,Thursday
+Sandwich,5.0,4.0,20.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-06-26,6,26,2023,Monday
+Juice,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-11,6,11,2023,Sunday
+Salad,1.0,5.0,5.0,Cash,In-store,2023-06-23,6,23,2023,Friday
+Juice,5.0,3.0,15.0,Credit Card,In-store,2023-06-09,6,9,2023,Friday
+Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,1.0,2.0,2.0,Cash,In-store,2023-06-18,6,18,2023,Sunday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-06-05,6,5,2023,Monday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-24,6,24,2023,Saturday
+Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Cookie,5.0,1.0,5.0,Cash,Takeaway,2023-06-01,6,1,2023,Thursday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-06-09,6,9,2023,Friday
+Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,3.0,2.0,6.0,Cash,Takeaway,2023-06-14,6,14,2023,Wednesday
+Juice,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Juice,1.0,3.0,3.0,Cash,Takeaway,2023-06-05,6,5,2023,Monday
+Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-06-09,6,9,2023,Friday
+Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-19,6,19,2023,Monday
+Tea,3.0,1.5,4.5,Cash,In-store,2023-06-27,6,27,2023,Tuesday
+Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-06-16,6,16,2023,Friday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Cookie,1.0,1.0,1.0,Cash,In-store,2023-06-06,6,6,2023,Tuesday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Cake,2.0,3.0,6.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Tea,3.0,1.5,4.5,Credit Card,In-store,2023-06-06,6,6,2023,Tuesday
+Cake,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-06-18,6,18,2023,Sunday
+Cookie,5.0,1.0,5.0,Cash,In-store,2023-06-16,6,16,2023,Friday
+Cake,4.0,3.0,12.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Cake,1.0,3.0,3.0,Credit Card,In-store,2023-06-09,6,9,2023,Friday
+Cookie,5.0,1.0,5.0,Cash,Takeaway,2023-06-04,6,4,2023,Sunday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-18,6,18,2023,Sunday
+Salad,4.0,5.0,20.0,Cash,In-store,2023-06-06,6,6,2023,Tuesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Tea,4.0,1.5,6.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Tea,2.0,1.5,3.0,Cash,In-store,2023-06-08,6,8,2023,Thursday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-11,6,11,2023,Sunday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-29,6,29,2023,Thursday
+Cake,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-09,6,9,2023,Friday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Sandwich,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Tea,3.0,1.5,4.5,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Tea,5.0,1.5,7.5,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,5.0,3.0,15.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-06-07,6,7,2023,Wednesday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-27,6,27,2023,Tuesday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Smoothie,2.0,4.0,8.0,Cash,In-store,2023-06-22,6,22,2023,Thursday
+Smoothie,5.0,4.0,20.0,Cash,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Cookie,4.0,1.0,4.0,Cash,In-store,2023-06-23,6,23,2023,Friday
+Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Coffee,4.0,2.0,8.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-06-19,6,19,2023,Monday
+Cake,4.0,3.0,12.0,Credit Card,In-store,2023-06-26,6,26,2023,Monday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Smoothie,2.0,4.0,8.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Sandwich,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-10,6,10,2023,Saturday
+Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-10,6,10,2023,Saturday
+Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-17,6,17,2023,Saturday
+Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-27,6,27,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Cake,4.0,3.0,12.0,Cash,In-store,2023-06-16,6,16,2023,Friday
+Salad,2.0,5.0,10.0,Credit Card,In-store,2023-06-21,6,21,2023,Wednesday
+Salad,3.0,5.0,15.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Juice,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Cookie,3.0,1.0,3.0,Digital Wallet,In-store,2023-06-17,6,17,2023,Saturday
+Tea,1.0,1.5,1.5,Cash,In-store,2023-06-22,6,22,2023,Thursday
+Smoothie,5.0,4.0,20.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-06-28,6,28,2023,Wednesday
+Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-21,6,21,2023,Wednesday
+Cake,3.0,3.0,9.0,Cash,Takeaway,2023-06-26,6,26,2023,Monday
+Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-06-02,6,2,2023,Friday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-03,6,3,2023,Saturday
+Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-06-29,6,29,2023,Thursday
+Sandwich,5.0,4.0,20.0,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Tea,1.0,1.5,1.5,Cash,In-store,2023-06-12,6,12,2023,Monday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-06-17,6,17,2023,Saturday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Smoothie,1.0,4.0,4.0,Cash,In-store,2023-06-02,6,2,2023,Friday
+Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-06-12,6,12,2023,Monday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cake,4.0,3.0,12.0,Credit Card,In-store,2023-06-30,6,30,2023,Friday
+Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Tea,5.0,1.5,7.5,Cash,In-store,2023-06-30,6,30,2023,Friday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Smoothie,1.0,4.0,4.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Cookie,5.0,1.0,5.0,Credit Card,Takeaway,2023-06-21,6,21,2023,Wednesday
+Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Sandwich,5.0,4.0,20.0,Cash,In-store,2023-06-12,6,12,2023,Monday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-06-19,6,19,2023,Monday
+Tea,3.0,1.5,4.5,Credit Card,Takeaway,2023-06-21,6,21,2023,Wednesday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Smoothie,2.0,4.0,8.0,Credit Card,In-store,2023-06-18,6,18,2023,Sunday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Coffee,3.0,2.0,6.0,Cash,Takeaway,2023-06-23,6,23,2023,Friday
+Cookie,3.0,1.0,3.0,Digital Wallet,In-store,2023-06-17,6,17,2023,Saturday
+Tea,5.0,1.5,7.5,Digital Wallet,In-store,2023-06-03,6,3,2023,Saturday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-27,6,27,2023,Tuesday
+Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-06,6,6,2023,Tuesday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-06-27,6,27,2023,Tuesday
+Tea,3.0,1.5,4.5,Digital Wallet,In-store,2023-06-28,6,28,2023,Wednesday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-14,6,14,2023,Wednesday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-27,6,27,2023,Tuesday
+Sandwich,1.0,4.0,4.0,Cash,Takeaway,2023-06-04,6,4,2023,Sunday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Salad,4.0,5.0,20.0,Cash,In-store,2023-06-08,6,8,2023,Thursday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-04,6,4,2023,Sunday
+Tea,1.0,1.5,1.5,Cash,Takeaway,2023-06-17,6,17,2023,Saturday
+Smoothie,1.0,4.0,4.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Coffee,4.0,2.0,8.0,Credit Card,Takeaway,2023-06-18,6,18,2023,Sunday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Juice,3.0,3.0,9.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,4.0,2.0,8.0,Credit Card,In-store,2023-06-26,6,26,2023,Monday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-21,6,21,2023,Wednesday
+Juice,2.0,3.0,6.0,Cash,Takeaway,2023-06-19,6,19,2023,Monday
+Tea,1.0,1.5,1.5,Digital Wallet,In-store,2023-06-29,6,29,2023,Thursday
+Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-06-20,6,20,2023,Tuesday
+Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-06-24,6,24,2023,Saturday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-16,6,16,2023,Friday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Juice,1.0,3.0,3.0,Credit Card,In-store,2023-06-16,6,16,2023,Friday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Smoothie,2.0,4.0,8.0,Credit Card,Takeaway,2023-06-06,6,6,2023,Tuesday
+Sandwich,2.0,4.0,8.0,Credit Card,In-store,2023-06-25,6,25,2023,Sunday
+Tea,4.0,1.5,6.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-06-29,6,29,2023,Thursday
+Smoothie,5.0,4.0,20.0,Cash,Takeaway,2023-06-05,6,5,2023,Monday
+Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-22,6,22,2023,Thursday
+Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-20,6,20,2023,Tuesday
+Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Sandwich,3.0,4.0,12.0,Credit Card,In-store,2023-06-18,6,18,2023,Sunday
+Salad,5.0,5.0,25.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-06-29,6,29,2023,Thursday
+Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Tea,3.0,1.5,4.5,Cash,Takeaway,2023-06-20,6,20,2023,Tuesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-29,6,29,2023,Thursday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-24,6,24,2023,Saturday
+Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-06-06,6,6,2023,Tuesday
+Tea,3.0,1.5,4.5,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Cake,2.0,3.0,6.0,Digital Wallet,In-store,2023-06-13,6,13,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Salad,2.0,5.0,10.0,Credit Card,In-store,2023-06-29,6,29,2023,Thursday
+Smoothie,4.0,4.0,16.0,Cash,In-store,2023-06-15,6,15,2023,Thursday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-06-24,6,24,2023,Saturday
+Sandwich,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-13,6,13,2023,Tuesday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-09,6,9,2023,Friday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Cookie,4.0,1.0,4.0,Cash,In-store,2023-06-12,6,12,2023,Monday
+Cake,3.0,3.0,9.0,Digital Wallet,In-store,2023-06-08,6,8,2023,Thursday
+Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Juice,3.0,3.0,9.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Tea,2.0,1.5,3.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Juice,2.0,3.0,6.0,Digital Wallet,In-store,2023-06-25,6,25,2023,Sunday
+Smoothie,3.0,4.0,12.0,Cash,In-store,2023-06-01,6,1,2023,Thursday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Tea,3.0,1.5,4.5,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-13,6,13,2023,Tuesday
+Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-06-17,6,17,2023,Saturday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-12,6,12,2023,Monday
+Cookie,2.0,1.0,2.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-17,6,17,2023,Saturday
+Smoothie,2.0,4.0,8.0,Cash,In-store,2023-06-15,6,15,2023,Thursday
+Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-02,6,2,2023,Friday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Salad,1.0,5.0,5.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-06-03,6,3,2023,Saturday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Juice,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,4.0,1.5,6.0,Cash,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,5.0,4.0,20.0,Credit Card,In-store,2023-06-21,6,21,2023,Wednesday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-21,6,21,2023,Wednesday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-03,6,3,2023,Saturday
+Smoothie,4.0,4.0,16.0,Cash,In-store,2023-06-18,6,18,2023,Sunday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Juice,2.0,3.0,6.0,Cash,Takeaway,2023-06-12,6,12,2023,Monday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-03,6,3,2023,Saturday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-22,6,22,2023,Thursday
+Smoothie,4.0,4.0,16.0,Cash,In-store,2023-06-29,6,29,2023,Thursday
+Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-06-18,6,18,2023,Sunday
+Coffee,4.0,2.0,8.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Smoothie,3.0,4.0,12.0,Credit Card,In-store,2023-06-07,6,7,2023,Wednesday
+Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,1.0,2.0,2.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-19,6,19,2023,Monday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Smoothie,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,5.0,1.0,5.0,Cash,Takeaway,2023-06-11,6,11,2023,Sunday
+Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Juice,4.0,3.0,12.0,Credit Card,Takeaway,2023-06-26,6,26,2023,Monday
+Sandwich,3.0,4.0,12.0,Credit Card,Takeaway,2023-06-25,6,25,2023,Sunday
+Smoothie,2.0,4.0,8.0,Cash,In-store,2023-06-24,6,24,2023,Saturday
+Cookie,3.0,1.0,3.0,Credit Card,Takeaway,2023-06-20,6,20,2023,Tuesday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-03,6,3,2023,Saturday
+Cake,2.0,3.0,6.0,Digital Wallet,In-store,2023-06-06,6,6,2023,Tuesday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Salad,2.0,5.0,10.0,Cash,Takeaway,2023-06-15,6,15,2023,Thursday
+Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-06-01,6,1,2023,Thursday
+Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-06-26,6,26,2023,Monday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Salad,1.0,5.0,5.0,Cash,In-store,2023-06-16,6,16,2023,Friday
+Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-06-22,6,22,2023,Thursday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Cookie,1.0,1.0,1.0,Credit Card,Takeaway,2023-06-07,6,7,2023,Wednesday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Tea,5.0,1.5,7.5,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-19,6,19,2023,Monday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-06-05,6,5,2023,Monday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,1.0,3.0,3.0,Cash,Takeaway,2023-06-15,6,15,2023,Thursday
+Cookie,3.0,1.0,3.0,Credit Card,In-store,2023-06-27,6,27,2023,Tuesday
+Salad,4.0,5.0,20.0,Cash,Takeaway,2023-06-21,6,21,2023,Wednesday
+Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-06-14,6,14,2023,Wednesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Juice,5.0,3.0,15.0,Credit Card,In-store,2023-06-02,6,2,2023,Friday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Coffee,3.0,2.0,6.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Juice,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-03,6,3,2023,Saturday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-14,6,14,2023,Wednesday
+Coffee,5.0,2.0,10.0,Digital Wallet,In-store,2023-06-24,6,24,2023,Saturday
+Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Juice,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cake,5.0,3.0,15.0,Credit Card,Takeaway,2023-06-19,6,19,2023,Monday
+Tea,2.0,1.5,3.0,Digital Wallet,In-store,2023-06-28,6,28,2023,Wednesday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-14,6,14,2023,Wednesday
+Smoothie,4.0,4.0,16.0,Credit Card,Takeaway,2023-06-28,6,28,2023,Wednesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-22,6,22,2023,Thursday
+Juice,3.0,3.0,9.0,Cash,Takeaway,2023-06-24,6,24,2023,Saturday
+Coffee,2.0,2.0,4.0,Digital Wallet,In-store,2023-06-02,6,2,2023,Friday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cake,1.0,3.0,3.0,Credit Card,Takeaway,2023-06-21,6,21,2023,Wednesday
+Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-29,6,29,2023,Thursday
+Coffee,5.0,2.0,10.0,Cash,Takeaway,2023-06-01,6,1,2023,Thursday
+Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,4.0,3.0,12.0,Cash,Takeaway,2023-06-22,6,22,2023,Thursday
+Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Sandwich,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Cookie,4.0,1.0,4.0,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-28,6,28,2023,Wednesday
+Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-29,6,29,2023,Thursday
+Tea,3.0,1.5,4.5,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,1.0,1.5,1.5,Credit Card,Takeaway,2023-06-03,6,3,2023,Saturday
+Tea,3.0,1.5,4.5,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Tea,3.0,1.5,4.5,Cash,In-store,2023-06-23,6,23,2023,Friday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Cake,2.0,3.0,6.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-06-05,6,5,2023,Monday
+Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-06-21,6,21,2023,Wednesday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-06-24,6,24,2023,Saturday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Cake,5.0,3.0,15.0,Cash,In-store,2023-06-20,6,20,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-22,6,22,2023,Thursday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Coffee,2.0,2.0,4.0,Credit Card,In-store,2023-06-18,6,18,2023,Sunday
+Juice,4.0,3.0,12.0,Credit Card,In-store,2023-06-20,6,20,2023,Tuesday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-06-29,6,29,2023,Thursday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Coffee,2.0,2.0,4.0,Credit Card,Takeaway,2023-06-25,6,25,2023,Sunday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-17,6,17,2023,Saturday
+Salad,3.0,5.0,15.0,Cash,In-store,2023-06-10,6,10,2023,Saturday
+Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,5.0,2.0,10.0,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-10,6,10,2023,Saturday
+Cake,5.0,3.0,15.0,Cash,Takeaway,2023-06-08,6,8,2023,Thursday
+Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-26,6,26,2023,Monday
+Sandwich,2.0,4.0,8.0,Credit Card,Takeaway,2023-06-15,6,15,2023,Thursday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Juice,4.0,3.0,12.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Smoothie,5.0,4.0,20.0,Credit Card,In-store,2023-06-12,6,12,2023,Monday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Cookie,2.0,1.0,2.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Juice,2.0,3.0,6.0,Credit Card,In-store,2023-06-17,6,17,2023,Saturday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Coffee,2.0,2.0,4.0,Credit Card,In-store,2023-06-08,6,8,2023,Thursday
+Cake,4.0,3.0,12.0,Cash,Takeaway,2023-06-06,6,6,2023,Tuesday
+Smoothie,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Juice,5.0,3.0,15.0,Cash,Takeaway,2023-06-04,6,4,2023,Sunday
+Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Smoothie,3.0,4.0,12.0,Cash,Takeaway,2023-06-24,6,24,2023,Saturday
+Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-29,6,29,2023,Thursday
+Juice,3.0,3.0,9.0,Credit Card,In-store,2023-06-11,6,11,2023,Sunday
+Cake,4.0,3.0,12.0,Credit Card,In-store,2023-06-27,6,27,2023,Tuesday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-14,6,14,2023,Wednesday
+Juice,3.0,3.0,9.0,Cash,Takeaway,2023-06-18,6,18,2023,Sunday
+Cookie,3.0,1.0,3.0,Digital Wallet,In-store,2023-06-22,6,22,2023,Thursday
+Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-21,6,21,2023,Wednesday
+Coffee,2.0,2.0,4.0,Cash,In-store,2023-06-22,6,22,2023,Thursday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Tea,4.0,1.5,6.0,Digital Wallet,Takeaway,2023-06-25,6,25,2023,Sunday
+Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-30,6,30,2023,Friday
+Salad,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-06-04,6,4,2023,Sunday
+Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-06-18,6,18,2023,Sunday
+Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,5.0,1.5,7.5,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Cookie,1.0,1.0,1.0,Credit Card,Takeaway,2023-06-26,6,26,2023,Monday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Smoothie,2.0,4.0,8.0,Cash,In-store,2023-06-01,6,1,2023,Thursday
+Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-06-06,6,6,2023,Tuesday
+Cookie,1.0,1.0,1.0,Credit Card,Takeaway,2023-06-09,6,9,2023,Friday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Salad,5.0,5.0,25.0,Digital Wallet,In-store,2023-06-30,6,30,2023,Friday
+Coffee,5.0,2.0,10.0,Digital Wallet,In-store,2023-06-20,6,20,2023,Tuesday
+Sandwich,4.0,4.0,16.0,Digital Wallet,In-store,2023-06-14,6,14,2023,Wednesday
+Cookie,2.0,1.0,2.0,Digital Wallet,In-store,2023-06-26,6,26,2023,Monday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-19,6,19,2023,Monday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Juice,1.0,3.0,3.0,Credit Card,In-store,2023-06-11,6,11,2023,Sunday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Tea,3.0,1.5,4.5,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-16,6,16,2023,Friday
+Sandwich,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Cake,3.0,3.0,9.0,Credit Card,In-store,2023-06-22,6,22,2023,Thursday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-14,6,14,2023,Wednesday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-10,6,10,2023,Saturday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-06-14,6,14,2023,Wednesday
+Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Tea,3.0,1.5,4.5,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Smoothie,3.0,4.0,12.0,Cash,Takeaway,2023-06-05,6,5,2023,Monday
+Sandwich,2.0,4.0,8.0,Credit Card,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cookie,1.0,1.0,1.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Cake,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Salad,4.0,5.0,20.0,Cash,Takeaway,2023-06-06,6,6,2023,Tuesday
+Salad,1.0,5.0,5.0,Cash,In-store,2023-06-15,6,15,2023,Thursday
+Juice,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cookie,5.0,1.0,5.0,Cash,In-store,2023-06-23,6,23,2023,Friday
+Smoothie,4.0,4.0,16.0,Cash,Takeaway,2023-06-01,6,1,2023,Thursday
+Sandwich,1.0,4.0,4.0,Cash,In-store,2023-06-01,6,1,2023,Thursday
+Coffee,5.0,2.0,10.0,Credit Card,Takeaway,2023-06-24,6,24,2023,Saturday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-05,6,5,2023,Monday
+Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-06-04,6,4,2023,Sunday
+Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-11,6,11,2023,Sunday
+Smoothie,1.0,4.0,4.0,Cash,In-store,2023-06-27,6,27,2023,Tuesday
+Sandwich,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-16,6,16,2023,Friday
+Tea,2.0,1.5,3.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Juice,1.0,3.0,3.0,Cash,In-store,2023-06-27,6,27,2023,Tuesday
+Coffee,1.0,2.0,2.0,Credit Card,Takeaway,2023-06-24,6,24,2023,Saturday
+Cake,2.0,3.0,6.0,Cash,In-store,2023-06-07,6,7,2023,Wednesday
+Salad,5.0,5.0,25.0,Cash,Takeaway,2023-06-14,6,14,2023,Wednesday
+Sandwich,1.0,4.0,4.0,Digital Wallet,In-store,2023-06-12,6,12,2023,Monday
+Tea,2.0,1.5,3.0,Credit Card,Takeaway,2023-06-25,6,25,2023,Sunday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-01,6,1,2023,Thursday
+Cake,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,5.0,2.0,10.0,Digital Wallet,In-store,2023-06-24,6,24,2023,Saturday
+Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Coffee,1.0,2.0,2.0,Cash,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-09,6,9,2023,Friday
+Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,1.0,3.0,3.0,Credit Card,In-store,2023-06-25,6,25,2023,Sunday
+Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-06-13,6,13,2023,Tuesday
+Salad,1.0,5.0,5.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,1.0,2.0,2.0,Digital Wallet,In-store,2023-06-12,6,12,2023,Monday
+Cookie,2.0,1.0,2.0,Credit Card,Takeaway,2023-06-02,6,2,2023,Friday
+Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-06-30,6,30,2023,Friday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-20,6,20,2023,Tuesday
+Salad,4.0,5.0,20.0,Credit Card,In-store,2023-06-30,6,30,2023,Friday
+Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Coffee,2.0,2.0,4.0,Cash,In-store,2023-06-13,6,13,2023,Tuesday
+Smoothie,1.0,4.0,4.0,Credit Card,Takeaway,2023-06-23,6,23,2023,Friday
+Cookie,3.0,1.0,3.0,Cash,Takeaway,2023-06-01,6,1,2023,Thursday
+Smoothie,2.0,4.0,8.0,Digital Wallet,Takeaway,2023-06-17,6,17,2023,Saturday
+Salad,4.0,5.0,20.0,Cash,Takeaway,2023-06-24,6,24,2023,Saturday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Tea,4.0,1.5,6.0,Credit Card,In-store,2023-06-09,6,9,2023,Friday
+Coffee,3.0,2.0,6.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Juice,5.0,3.0,15.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,4.0,3.0,12.0,Cash,Takeaway,2023-06-17,6,17,2023,Saturday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Cake,1.0,3.0,3.0,Cash,Takeaway,2023-06-06,6,6,2023,Tuesday
+Smoothie,1.0,4.0,4.0,Cash,Takeaway,2023-06-09,6,9,2023,Friday
+Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Coffee,4.0,2.0,8.0,Digital Wallet,Takeaway,2023-06-26,6,26,2023,Monday
+Juice,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-13,6,13,2023,Tuesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-12,6,12,2023,Monday
+Cake,1.0,3.0,3.0,Cash,Takeaway,2023-06-26,6,26,2023,Monday
+Sandwich,2.0,4.0,8.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Cookie,5.0,1.0,5.0,Digital Wallet,In-store,2023-06-08,6,8,2023,Thursday
+Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-06-19,6,19,2023,Monday
+Cake,2.0,3.0,6.0,Credit Card,Takeaway,2023-06-07,6,7,2023,Wednesday
+Juice,2.0,3.0,6.0,Credit Card,In-store,2023-06-01,6,1,2023,Thursday
+Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Smoothie,5.0,4.0,20.0,Cash,In-store,2023-06-07,6,7,2023,Wednesday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-16,6,16,2023,Friday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-24,6,24,2023,Saturday
+Smoothie,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-13,6,13,2023,Tuesday
+Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-06-08,6,8,2023,Thursday
+Tea,3.0,1.5,4.5,Credit Card,Takeaway,2023-06-09,6,9,2023,Friday
+Smoothie,3.0,4.0,12.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Sandwich,3.0,4.0,12.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
+Tea,5.0,1.5,7.5,Credit Card,Takeaway,2023-06-18,6,18,2023,Sunday
+Juice,2.0,3.0,6.0,Cash,Takeaway,2023-06-13,6,13,2023,Tuesday
+Cookie,1.0,1.0,1.0,Cash,Takeaway,2023-06-02,6,2,2023,Friday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-22,6,22,2023,Thursday
+Smoothie,5.0,4.0,20.0,Cash,In-store,2023-06-23,6,23,2023,Friday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-07,6,7,2023,Wednesday
+Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-06-29,6,29,2023,Thursday
+Cake,2.0,3.0,6.0,Cash,Takeaway,2023-06-26,6,26,2023,Monday
+Cookie,5.0,1.0,5.0,Digital Wallet,Takeaway,2023-06-11,6,11,2023,Sunday
+Salad,2.0,5.0,10.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,2023-06-03,6,3,2023,Saturday
+Sandwich,3.0,4.0,12.0,Cash,Takeaway,2023-06-17,6,17,2023,Saturday
+Juice,3.0,3.0,9.0,Credit Card,Takeaway,2023-06-12,6,12,2023,Monday
+Sandwich,1.0,4.0,4.0,Digital Wallet,Takeaway,2023-06-15,6,15,2023,Thursday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-23,6,23,2023,Friday
+Juice,1.0,3.0,3.0,Cash,Takeaway,2023-06-18,6,18,2023,Sunday
+Tea,1.0,1.5,1.5,Cash,Takeaway,2023-06-02,6,2,2023,Friday
+Cake,4.0,3.0,12.0,Credit Card,Takeaway,2023-06-21,6,21,2023,Wednesday
+Sandwich,5.0,4.0,20.0,Cash,In-store,2023-06-16,6,16,2023,Friday
+Sandwich,5.0,4.0,20.0,Digital Wallet,In-store,2023-06-15,6,15,2023,Thursday
+Salad,3.0,5.0,15.0,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-06-01,6,1,2023,Thursday
+Sandwich,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-06,6,6,2023,Tuesday
+Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-06-22,6,22,2023,Thursday
+Tea,1.0,1.5,1.5,Digital Wallet,Takeaway,2023-06-28,6,28,2023,Wednesday
+Smoothie,4.0,4.0,16.0,Digital Wallet,Takeaway,2023-06-27,6,27,2023,Tuesday
+Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-06-02,6,2,2023,Friday
