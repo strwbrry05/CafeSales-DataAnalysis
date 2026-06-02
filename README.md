@@ -77,6 +77,9 @@ Google Data Studio/Looker: [Google Public View Link](https://datastudio.google.c
 
 Tableau: [Tableau Public View Link](https://public.tableau.com/views/Cafe_VizTableu/JuneStats?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
 
+![Total Revenue and Quantities Sold](readMeFiles/Viz1_totals.png)
+![June Insights](readMeFiles/Viz2_june.png)
+
 ## Summary of Key Findings
 **Top 3 Quantities Sold:** Coffee, Cake, Juice
 
